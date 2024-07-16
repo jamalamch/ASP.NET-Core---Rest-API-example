@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "dgSpecHash": "yw6ChZ9W9mGYS9diMLlwqRVAuE0qBc+E+qmKQk55SNqNjnj7PQoMQs1CHjXSWW35CYjh2T5NZjud78JgUvYA0w==",
+  "success": false,
+  "projectFilePath": "E:\\Github\\ASP.NET Core Full Course For Beginners\\GameStore.Api\\GameStore.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TamBom\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.2\\microsoft.entityframeworkcore.design.8.0.2.nupkg.sha512",
+    "C:\\Users\\TamBom\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.2\\microsoft.entityframeworkcore.sqlite.8.0.2.nupkg.sha512",
+    "C:\\Users\\TamBom\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Sqlite 8.0.2 is not compatible with net80 (.NETFramework,Version=v8.0). Package Microsoft.EntityFrameworkCore.Sqlite 8.0.2 supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite",
+      "targetGraphs": [
+        ".NETFramework,Version=v8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 8.0.2 is not compatible with net80 (.NETFramework,Version=v8.0). Package Microsoft.EntityFrameworkCore.Design 8.0.2 supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package MinimalApis.Extensions 0.11.0 is not compatible with net80 (.NETFramework,Version=v8.0). Package MinimalApis.Extensions 0.11.0 supports:\r\n  - net6.0 (.NETCoreApp,Version=v6.0)\r\n  - net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "MinimalApis.Extensions",
+      "targetGraphs": [
+        ".NETFramework,Version=v8.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Sqlite 8.0.2 is not compatible with net80 (.NETFramework,Version=v8.0) / win7-x86. Package Microsoft.EntityFrameworkCore.Sqlite 8.0.2 supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite",
+      "targetGraphs": [
+        ".NETFramework,Version=v8.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 8.0.2 is not compatible with net80 (.NETFramework,Version=v8.0) / win7-x86. Package Microsoft.EntityFrameworkCore.Design 8.0.2 supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v8.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package MinimalApis.Extensions 0.11.0 is not compatible with net80 (.NETFramework,Version=v8.0) / win7-x86. Package MinimalApis.Extensions 0.11.0 supports:\r\n  - net6.0 (.NETCoreApp,Version=v6.0)\r\n  - net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "MinimalApis.Extensions",
+      "targetGraphs": [
+        ".NETFramework,Version=v8.0/win7-x86"
+      ]
+    }
+  ]
+}
